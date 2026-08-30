@@ -1,0 +1,1 @@
+{"name":"Planning","short_name":"Planning","description":"Mon planning scolaire personnel, utilisable hors connexion.","start_url":"/","display":"standalone","background_color":"#f5f7fb","theme_color":"#111827","lang":"fr-BE","scope":"/","orientation":"landscape","icons":[{"src":"planning.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}

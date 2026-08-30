@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Planning — calendrier</title>
+  <rect width="512" height="512" rx="108" fill="#111827"/>
+  <rect x="100" y="122" width="312" height="290" rx="46" fill="#ffffff"/>
+  <path d="M100 190c0-38 30-68 68-68h176c38 0 68 30 68 68v58H100v-58Z" fill="#f8c95f"/>
+  <path d="M174 98v74M338 98v74" stroke="#ffffff" stroke-linecap="round" stroke-width="28"/>
+  <path d="M166 300h48M166 354h48M278 300h68M278 354h68" stroke="#dce4f0" stroke-linecap="round" stroke-width="20"/>
+  <path d="m252 332 31 30 68-78" fill="none" stroke="#1d4ed8" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"/>
+  <path d="M190 218h132" stroke="#111827" stroke-linecap="round" stroke-width="20"/>
+</svg>
